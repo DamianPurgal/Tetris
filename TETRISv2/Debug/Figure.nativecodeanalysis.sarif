@@ -1,0 +1,1120 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26440",
+          "message": {
+            "text": "Dla funkcji „Figure::collisionLeft” można użyć deklaracji „noexcept” (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 13,
+                  "endLine": 5,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionLeft@Figure@@QAEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 8,
+                  "endLine": 11,
+                  "endColumn": 21
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionLeft@Figure@@QAEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 8,
+                  "endLine": 11,
+                  "endColumn": 21
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionLeft@Figure@@QAEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26440",
+          "message": {
+            "text": "Dla funkcji „Figure::collisionRight” można użyć deklaracji „noexcept” (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 13,
+                  "endLine": 18,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRight@Figure@@QAEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 8,
+                  "endLine": 24,
+                  "endColumn": 21
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRight@Figure@@QAEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 24,
+                  "startColumn": 8,
+                  "endLine": 24,
+                  "endColumn": 21
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRight@Figure@@QAEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 4,
+                  "endLine": 37,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?showFig@Figure@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 4,
+                  "endLine": 37,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?showFig@Figure@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26440",
+          "message": {
+            "text": "Dla funkcji „Figure::collisionColumn” można użyć deklaracji „noexcept” (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 13,
+                  "endLine": 43,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionColumn@Figure@@QAEHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 7,
+                  "endLine": 47,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionColumn@Figure@@QAEHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 47,
+                  "startColumn": 7,
+                  "endLine": 47,
+                  "endColumn": 25
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionColumn@Figure@@QAEHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26440",
+          "message": {
+            "text": "Dla funkcji „Figure::nextRotation” można użyć deklaracji „noexcept” (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 13,
+                  "endLine": 53,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?nextRotation@Figure@@QAEHXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26440",
+          "message": {
+            "text": "Dla funkcji „Figure::collisionRow” można użyć deklaracji „noexcept” (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 13,
+                  "endLine": 62,
+                  "endColumn": 13
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRow@Figure@@QAEHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 8,
+                  "endLine": 68,
+                  "endColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRow@Figure@@QAEHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 8,
+                  "endLine": 68,
+                  "endColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRow@Figure@@QAEHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 8,
+                  "endLine": 78,
+                  "endColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRow@Figure@@QAEHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 8,
+                  "endLine": 78,
+                  "endColumn": 18
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?collisionRow@Figure@@QAEHHH@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26409",
+          "message": {
+            "text": "Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique<T> (r.11)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 17,
+                  "endLine": 93,
+                  "endColumn": 17
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26409",
+          "message": {
+            "text": "Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique<T> (r.11)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 94,
+                  "startColumn": 8
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26409",
+          "message": {
+            "text": "Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique<T> (r.11)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26409",
+          "message": {
+            "text": "Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique<T> (r.11)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 3,
+                  "endLine": 97,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 4,
+                  "endLine": 103,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 4,
+                  "endLine": 103,
+                  "endColumn": 20
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 3,
+                  "endLine": 110,
+                  "endColumn": 12
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 4,
+                  "endLine": 113,
+                  "endColumn": 24
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 4,
+                  "endLine": 113,
+                  "endColumn": 24
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 4,
+                  "endLine": 113,
+                  "endColumn": 24
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 113,
+                  "startColumn": 4,
+                  "endLine": 113,
+                  "endColumn": 24
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??0Figure@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26432",
+          "message": {
+            "text": "Jeśli definiujesz lub usuwasz dowolną operację domyślną w typie „class Figure”, zdefiniuj lub usuń wszystkie operacje domyślne (c.21)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 10,
+                  "endLine": 121,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "??1Figure@@QAE@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 4,
+                  "endLine": 132,
+                  "endColumn": 51
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?rotate@Figure@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 4,
+                  "endLine": 132,
+                  "endColumn": 51
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?rotate@Figure@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 4,
+                  "endLine": 132,
+                  "endColumn": 51
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?rotate@Figure@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26481",
+          "message": {
+            "text": "Nie używaj arytmetyki wskaźnika. W zamian użyj span (bounds.1)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 4,
+                  "endLine": 132,
+                  "endColumn": 51
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?rotate@Figure@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26440",
+          "message": {
+            "text": "Dla funkcji „Figure::rollColor” można użyć deklaracji „noexcept” (f.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+                },
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 14,
+                  "endLine": 137,
+                  "endColumn": 14
+                }
+              },
+              "logicalLocations": [
+                {
+                  "decoratedName": "?rollColor@Figure@@QAEXXZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.29.30142.1",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x0053D1C0 -allChunksReserved -il C:\\Users\\Damia\\AppData\\Local\\Temp\\_CL_b982144bast -typedil -f Figure.cpp -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1929 -D_MSC_FULL_VER=192930142 -D_MSC_BUILD=1 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -D_CONSOLE -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -Zc:wchar_t -Zc:forScope -Yustdafx.h -FpDebug\\TETRISv2.pch -FoDebug\\Figure.obj -FdDebug\\vc142.pdb -external:W 3 -Gd -analyze:projectdirectory C:\\Users\\Damia\\OneDrive\\Pulpit\\Pliki\\pendrive\\VSrepos\\TETRISv2\\TETRISv2 -analyze:rulesetdirectory ;C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:quiet -analyze:plugin C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\atlmfc\\include -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -I C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Auxiliary\\VS\\UnitTest\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/tetrisv2.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "md5": "283b27189165db5b77092256563e1cf2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/stdafx.h"
+          },
+          "hashes": {
+            "md5": "aa9c091299f07ad95bb49e6ee4bff136"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/targetver.h"
+          },
+          "hashes": {
+            "md5": "05f2aff48de1b7f920e0fa15051a207f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/menucontroller.h"
+          },
+          "hashes": {
+            "md5": "443ef1edd9d2abc659607c103d500ddc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/tetris.h"
+          },
+          "hashes": {
+            "md5": "b03065c24326f1ffc2eeec7fab601cae"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/map.h"
+          },
+          "hashes": {
+            "md5": "82bd9a3d04a5b42c98f0ec5dffe0119c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/gravitycontroller.h"
+          },
+          "hashes": {
+            "md5": "39624a7243de734ffc62f82fbddc437b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/figure.h"
+          },
+          "hashes": {
+            "md5": "ca24f6c419d5ebfa189acdb091bf1284"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/const.h"
+          },
+          "hashes": {
+            "md5": "6c6ce94fc0c3667b64c608e5251f42f7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/damia/onedrive/pulpit/pliki/pendrive/vsrepos/tetrisv2/tetrisv2/movecontroller.h"
+          },
+          "hashes": {
+            "md5": "6c79dfa62adb2feab16f42aafc81fb63"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/TETRIS.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "55820fc10010efa6cd9a8d03d1524cc6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/MoveController.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "86a5c3bbb0a08736c973ee48d56720d4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/MenuController.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "d864eca1dfa10664fe479cf2f1dc2c96"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Map.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "a71bc50dc76e53af5f0c2630d02a5406"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/GravityController.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "bacd188a6748d26e9104a776d1a76e9e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///C:/Users/Damia/OneDrive/Pulpit/Pliki/pendrive/VSrepos/TETRISv2/TETRISv2/Figure.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "md5": "c86eb566db3a6ad24be9167078db875a"
+          }
+        }
+      ]
+    }
+  ]
+}

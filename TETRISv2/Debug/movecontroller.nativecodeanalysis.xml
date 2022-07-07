@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MoveController.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'move' does not change after construction, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>MoveController::getMove</FUNCTION>
+    <DECORATED>?getMove@MoveController@@QAEHXZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MoveController.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Dla funkcji „MoveController::getMove” można użyć deklaracji „noexcept” (f.6).</DESCRIPTION>
+    <FUNCTION>MoveController::getMove</FUNCTION>
+    <DECORATED>?getMove@MoveController@@QAEHXZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MoveController.cpp</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>20</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Dla funkcji „MoveController::getLastMove” można użyć deklaracji „noexcept” (f.6).</DESCRIPTION>
+    <FUNCTION>MoveController::getLastMove</FUNCTION>
+    <DECORATED>?getLastMove@MoveController@@QAEHXZ</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MoveController.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26455</DEFECTCODE>
+    <DESCRIPTION>Konstruktor domyślny nie może używać instrukcji throw. Określ dla niego deklarację „noexcept” (f.6).</DESCRIPTION>
+    <FUNCTION>MoveController::{ctor}</FUNCTION>
+    <DECORATED>??0MoveController@@QAE@XZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MoveController.cpp</FILENAME>
+      <LINE>47</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>Jeśli definiujesz lub usuwasz dowolną operację domyślną w typie „class MoveController”, zdefiniuj lub usuń wszystkie operacje domyślne (c.21).</DESCRIPTION>
+    <FUNCTION>MoveController::{dtor}</FUNCTION>
+    <DECORATED>??1MoveController@@QAE@XZ</DECORATED>
+    <FUNCLINE>47</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

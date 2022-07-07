@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MenuController.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique&lt;T&gt; (r.11).</DESCRIPTION>
+    <FUNCTION>MenuController::createNewGame</FUNCTION>
+    <DECORATED>?createNewGame@MenuController@@QAEXXZ</DECORATED>
+    <FUNCLINE>25</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MenuController.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Ignorowana wartość zwrotna: „_getch”.</DESCRIPTION>
+    <FUNCTION>MenuController::{ctor}</FUNCTION>
+    <DECORATED>??0MenuController@@QAE@XZ</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MenuController.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>26455</DEFECTCODE>
+    <DESCRIPTION>Konstruktor domyślny nie może używać instrukcji throw. Określ dla niego deklarację „noexcept” (f.6).</DESCRIPTION>
+    <FUNCTION>MenuController::{ctor}</FUNCTION>
+    <DECORATED>??0MenuController@@QAE@XZ</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>MenuController.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>Jeśli definiujesz lub usuwasz dowolną operację domyślną w typie „class MenuController”, zdefiniuj lub usuń wszystkie operacje domyślne (c.21).</DESCRIPTION>
+    <FUNCTION>MenuController::{dtor}</FUNCTION>
+    <DECORATED>??1MenuController@@QAE@XZ</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

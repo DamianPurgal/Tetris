@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>TETRIS.cpp</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique&lt;T&gt; (r.11).</DESCRIPTION>
+    <FUNCTION>TETRIS::{ctor}</FUNCTION>
+    <DECORATED>??0TETRIS@@QAE@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>TETRIS.cpp</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique&lt;T&gt; (r.11).</DESCRIPTION>
+    <FUNCTION>TETRIS::{ctor}</FUNCTION>
+    <DECORATED>??0TETRIS@@QAE@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>TETRIS.cpp</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Unikaj opcji wywoływania opcji new i delete; w zamian użyj opcji std::make_unique&lt;T&gt; (r.11).</DESCRIPTION>
+    <FUNCTION>TETRIS::{ctor}</FUNCTION>
+    <DECORATED>??0TETRIS@@QAE@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>TETRIS.cpp</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26455</DEFECTCODE>
+    <DESCRIPTION>Konstruktor domyślny nie może używać instrukcji throw. Określ dla niego deklarację „noexcept” (f.6).</DESCRIPTION>
+    <FUNCTION>TETRIS::{ctor}</FUNCTION>
+    <DECORATED>??0TETRIS@@QAE@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>TETRIS.cpp</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Zmienna „answer” jest niezainicjowana. Zawsze inicjuj obiekt (type.5).</DESCRIPTION>
+    <FUNCTION>TETRIS::{ctor}</FUNCTION>
+    <DECORATED>??0TETRIS@@QAE@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>answer</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>TETRIS.cpp</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26494</DEFECTCODE>
+    <DESCRIPTION>Zmienna „timer” jest niezainicjowana. Zawsze inicjuj obiekt (type.5).</DESCRIPTION>
+    <FUNCTION>TETRIS::{ctor}</FUNCTION>
+    <DECORATED>??0TETRIS@@QAE@XZ</DECORATED>
+    <FUNCLINE>39</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>timer</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Damia\OneDrive\Pulpit\Pliki\pendrive\VSrepos\TETRISv2\TETRISv2\</FILEPATH>
+      <FILENAME>TETRIS.cpp</FILENAME>
+      <LINE>120</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>Jeśli definiujesz lub usuwasz dowolną operację domyślną w typie „class TETRIS”, zdefiniuj lub usuń wszystkie operacje domyślne (c.21).</DESCRIPTION>
+    <FUNCTION>TETRIS::{dtor}</FUNCTION>
+    <DECORATED>??1TETRIS@@QAE@XZ</DECORATED>
+    <FUNCLINE>120</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
