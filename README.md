@@ -11,5 +11,5 @@ Odwzorowanie popularnej gry "Tetris" w języku C++. Projekt z pierwszej klasy li
 
 
 <p align="center">
-  <img width="75%" height="75%" src="https://github.com/DamianPurgal/Tetris/blob/master/readmeimages/tetris2.png">
+  <img width="75%" height="75%" src="https://github.com/DamianPurgal/Tetris/blob/master/readmeimages/tetris1.png">
 </p>
